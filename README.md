@@ -1,2 +1,3 @@
 # js-start
-JavaScript ćwiczenia
+
+Bunch of javascript excersises for school project.
